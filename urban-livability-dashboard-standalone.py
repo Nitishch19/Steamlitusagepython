@@ -8,7 +8,7 @@ import io
 
 # Page configuration
 st.set_page_config(
-    page_title="Urban Livability Index Dashboard",
+    page_title="Urban Liability Index Dashboard",
     page_icon="🏙️",
     layout="wide",
     initial_sidebar_state="expanded"
